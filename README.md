@@ -3,7 +3,7 @@ Team Name: Safety First (Group Number 48)
 Metric:
 Safety
 
-
+Our repository represents the safest neighborhoods from the data sets below: crime rates and arrests, police incidents, average speed limit, and fires.
 
 Thomas Smith - tas443@pitt.edu - https://data.wprdc.org/dataset/arrest-data
 I think that this data will be the best indicator of the “best” neighborhood in Pittsburgh. Crime rates and arrests are super important when deciding the safety of a neighborhood to live in. 
